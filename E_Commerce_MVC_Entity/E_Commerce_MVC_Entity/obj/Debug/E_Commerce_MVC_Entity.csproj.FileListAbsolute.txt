@@ -1,5 +1,3 @@
-C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\obj\Debug\E_Commerce_MVC_Entity.csprojAssemblyReference.cache
-C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\obj\Debug\E_Commerce_MVC_Entity.csproj.CoreCompileInputs.cache
 C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\bin\E_Commerce_MVC_Entity.dll.config
 C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\bin\E_Commerce_MVC_Entity.dll
 C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\bin\E_Commerce_MVC_Entity.pdb
@@ -75,6 +73,10 @@ C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\bin\Sy
 C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\bin\Newtonsoft.Json.xml
 C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\bin\Antlr3.Runtime.pdb
 C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\obj\Debug\E_Commerce_MVC_Entity.csproj.CoreCompileInputs.cache
 C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\obj\Debug\E_Commerce_MVC_Entity.csproj.CopyComplete
 C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\obj\Debug\E_Commerce_MVC_Entity.dll
 C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\obj\Debug\E_Commerce_MVC_Entity.pdb
+C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\obj\Debug\E_Commerce_MVC_Entity.Migrations.InitialCreate.resources
+C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\obj\Debug\E_Commerce_MVC_Entity.csproj.GenerateResource.cache
+C:\Users\Ricardo\source\repos\E_Commerce_MVC_Entity\E_Commerce_MVC_Entity\obj\Debug\E_Commerce_MVC_Entity.Migrations.Initial.resources

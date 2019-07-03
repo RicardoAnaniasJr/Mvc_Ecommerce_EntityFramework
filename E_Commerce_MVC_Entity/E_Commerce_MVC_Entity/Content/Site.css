@@ -7,7 +7,7 @@ body {
 
 
 .navbar-brand {
-    color: greenyellow !important;
+    color: black !important;
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -75,7 +75,7 @@ textarea {
 }
 
 .categorywrap {
-    border: 1px solid green;
+    border: 1px solid gray;
 }
 
 .categorywrap h2 {
@@ -89,12 +89,12 @@ textarea {
 }
 
 .categorywraplast {
-    border: 1px solid green;
+    border: 1px solid gray;
 }
 
 .categorywraplast h2 {
     text-align: center;
-    color: green;
+    color: gray;
 }
 
 .categorywraplast img {
@@ -128,7 +128,7 @@ textarea {
 
 /*navbar style*/
 .navbar-default {
-  background-color: #16450e;
+  background-color: black;
   border-color: #070707;
 }
 .navbar-default .navbar-brand {

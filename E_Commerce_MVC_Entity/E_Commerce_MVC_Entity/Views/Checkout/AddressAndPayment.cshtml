@@ -9,16 +9,15 @@
 @using (Html.BeginForm())
 {
     <div class="weird">
-        <h2>Address And Payment</h2>
+        <h2>Endereco e Pagamento</h2>
         <fieldset>
-            <legend>Shipping Information</legend>
+            <legend>Informacao de Entrega</legend>
             @Html.EditorForModel()
         </fieldset>
         <fieldset>
-            <legend>Payment</legend>
+            <legend>Pagamento</legend>
             <p>
-                We're running a promotion: all item is free
-                with the promo code: "FREE"
+                PROMOÇAO: Tudo de graça com o código: "FREE"
             </p>
             <div class="editor-label">
                 @Html.Label("Promo Code")

@@ -137,6 +137,15 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201907030236315_InitialCreate.cs" />
+    <Compile Include="Migrations\201907030236315_InitialCreate.Designer.cs">
+      <DependentUpon>201907030236315_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201907031558086_Initial.cs" />
+    <Compile Include="Migrations\201907031558086_Initial.Designer.cs">
+      <DependentUpon>201907031558086_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Carrinho.cs" />
     <Compile Include="Models\Categoria.cs" />
     <Compile Include="Models\Cliente.cs" />
@@ -153,14 +162,11 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Content\Images\bakery.png" />
-    <Content Include="Content\Images\bakeryicon.png" />
-    <Content Include="Content\Images\dairy.png" />
-    <Content Include="Content\Images\dairyicon.png" />
-    <Content Include="Content\Images\fruitandveg.png" />
-    <Content Include="Content\Images\fruiticon.png" />
-    <Content Include="Content\Images\meat.png" />
-    <Content Include="Content\Images\meaticon.png" />
+    <Content Include="Content\Images\bakery1.jpg" />
+    <Content Include="Content\Images\bakeryicon1.png" />
+    <Content Include="Content\Images\dairyicon1.png" />
+    <Content Include="Content\Images\fruiticon1.png" />
+    <Content Include="Content\Images\meaticon1.png" />
     <Content Include="Content\Images\Products\Broccoli.png" />
     <Content Include="Content\Images\Products\Butter.png" />
     <Content Include="Content\Images\Products\Cheese.png" />
@@ -185,7 +191,11 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
     <Content Include="Scripts\jquery-3.3.1.slim.js" />
@@ -195,7 +205,11 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Scripts\respond.js" />
+    <Content Include="Scripts\respond.min.js" />
+    <None Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -245,6 +259,14 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201907030236315_InitialCreate.resx">
+      <DependentUpon>201907030236315_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201907031558086_Initial.resx">
+      <DependentUpon>201907031558086_Initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
